@@ -6843,4 +6843,3 @@ Picker.extend( 'pickadate', DatePicker )
 
 /* CUSTOM JS */
 
-$(".button-collapse").sideNav();
