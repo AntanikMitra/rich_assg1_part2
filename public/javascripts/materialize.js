@@ -15,9 +15,7 @@ if (typeof(jQuery) === 'undefined') {
   }
 };
 
-/* CUSTOM JS */
 
-$(".button-collapse").sideNav();
 
 
 
