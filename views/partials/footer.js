@@ -7,7 +7,7 @@
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Connect</h5>
-                <ul>
+                <ul id="social">
                   <li><a class="grey-text text-lighten-3" href="#!"><b>f</b></a></li>
                   <li><a class="grey-text text-lighten-3" href="#!"><b>in</b></a></li>
                 </ul>
