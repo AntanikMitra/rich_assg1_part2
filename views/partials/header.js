@@ -16,7 +16,7 @@
 <nav>
     <div class="nav-wrapper black">
      
-      <a href="#!" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="/" title= "Home"> Home </a></li>
         <li><a href="/about" title= "About"> About </a></li>
