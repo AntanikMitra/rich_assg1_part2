@@ -1,0 +1,32 @@
+/* Author: Antanik Mitra
+   WebApp: Assignment 1 part 1
+   Date 15/02/2016
+ */
+
+    h1,p {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+    color: white;
+}
+
+body {
+  background: url("/images/bg.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+footer{
+    
+    margin-top: 80px;
+    
+}
+
+form{
+    
+    color: white;
+    
+}
