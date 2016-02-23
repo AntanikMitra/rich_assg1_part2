@@ -3,7 +3,7 @@
 <head>
 <title><%= title %></title>
 
-
+<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link rel= "stylesheet" href= '/stylesheets/style.css'/>
 <link rel="stylesheet" href= '/stylesheets/css/materialize.min.css'/> 
   
@@ -15,7 +15,7 @@
 
 <nav>
     <div class="nav-wrapper black">
-      <a href="#!" class="brand-logo">Logo</a>
+     
       <a href="#!" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="/" title= "Home"> Home </a></li>
