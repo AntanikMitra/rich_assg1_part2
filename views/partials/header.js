@@ -8,7 +8,7 @@
 <link rel="stylesheet" href= '/stylesheets/css/materialize.min.css'/> 
   
 <script src= "/javascripts/jquery-2.2.0.min.js"> </script>
-<script src= "/javascripts/materialize.min.js"> </script>
+<script src= "/javascripts/materialize.js"> </script>
 
 </head>
 <body>

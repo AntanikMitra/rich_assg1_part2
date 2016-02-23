@@ -6837,3 +6837,10 @@ Picker.extend( 'pickadate', DatePicker )
       }
     }; // Plugin end
 }( jQuery ));
+
+
+
+
+/* CUSTOM JS */
+
+$(".button-collapse").sideNav();
