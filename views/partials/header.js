@@ -16,18 +16,20 @@
 <nav>
     <div class="nav-wrapper">
       <a href="#!" class="brand-logo">Logo</a>
-      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="#!" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-        <li><a href="collapsible.html">Javascript</a></li>
-        <li><a href="mobile.html">Mobile</a></li>
+        <li><a href="/" title= "Home"> Home </a></li>
+        <li><a href="/about" title= "About"> About </a></li>
+        <li><a href="/projects" title= "Projects"> Projects </a></li>
+        <li><a href="/services" title= "Services"> Services </a></li>
+        <li><a href="/contact" title= "Contact"> Contact </a></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-        <li><a href="collapsible.html">Javascript</a></li>
-        <li><a href="mobile.html">Mobile</a></li>
+       <li><a href="/" title= "Home"> Home </a></li>
+        <li><a href="/about" title= "About"> About </a></li>
+        <li><a href="/projects" title= "Projects"> Projects </a></li>
+        <li><a href="/services" title= "Services"> Services </a></li>
+        <li><a href="/contact" title= "Contact"> Contact </a></li>
       </ul>
     </div>
   </nav>
