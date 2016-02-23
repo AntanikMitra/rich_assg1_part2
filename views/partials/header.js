@@ -13,7 +13,7 @@
 </head>
 <body>
 
- <div class="nav-fixed">
+ <div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper black">
      
