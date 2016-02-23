@@ -13,7 +13,18 @@ if (typeof(jQuery) === 'undefined') {
   } else {
     jQuery = $;
   }
-};/*
+};
+
+/* CUSTOM JS */
+
+$(".button-collapse").sideNav();
+
+
+
+
+
+
+/*
  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
  *
  * Uses the built in easing capabilities added In jQuery 1.1
