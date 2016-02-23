@@ -13,6 +13,7 @@
 </head>
 <body>
 
+ <div class="nav-fixed">
 <nav>
     <div class="nav-wrapper black">
      
@@ -33,3 +34,4 @@
       </ul>
     </div>
   </nav>
+  </div>
