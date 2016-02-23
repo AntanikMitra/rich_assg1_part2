@@ -15,7 +15,7 @@
 
  <div class="navbar-fixed">
 <nav>
-    <div class="nav-wrapper black transparent">
+    <div class="nav-wrapper black">
      
       <a href="" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="left hide-on-med-and-down">
