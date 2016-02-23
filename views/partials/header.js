@@ -10,12 +10,12 @@
 <script src= "/javascripts/jquery-2.2.0.min.js" > </script>
 <script src= "/javascripts/materialize.min.js" > </script>
 
-< /head>
-< body >
+</head>
+<body>
 
 
-<div class="nav-wrapper" >
-<a href="#!" class="brand-logo" > Logo < /a>
+<div class="nav-wrapper">
+<a href="#" class="brand-logo"> Logo </a>
 <a href= "#" data- activates="mobile-demo" class="button-collapse"> <i class="material-icons"> menu </i></a>
 <ul class="right hide-on-med-and-down">
 <li><a href="/" title= "Home"> Home </a></li>
