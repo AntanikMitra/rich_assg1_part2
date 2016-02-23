@@ -14,7 +14,7 @@
 <body>
 
 <nav>
-    <div class="nav-wrapper black">
+    <div class="nav-wrapper black center">
      
       <a href="" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="center hide-on-med-and-down">
