@@ -2,8 +2,8 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">ANNTANIK MITRA</h5>
+                <p class="grey-text text-lighten-4">Always there to help and guide you.</p>
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
@@ -18,7 +18,7 @@
           </div>
           <div class="footer-copyright darken-4" id="foot2">
             <div class="container">
-            © 2014 Copyright Text
+            © 2016 Copyright Antanik Mitra
             <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
             </div>
           </div>
